@@ -37,7 +37,7 @@ Los trabajos de laboratorio están diseñados para que cada grupo trabaje de for
 
 Si el/la profesor/profesora encuentra al estudiante copiando durante un control o solemne será evaluado con la nota mínima sin objeción.
 
-# Controles
+### Controles
 Cada laboratorio sera iniciado con un control de entrada de 15 minutos el cual estara relacionado con la materia vista en la clase anterior o alguna lectura la cual sera avisada con anticipación.
 
 # Informes de laboratorio
