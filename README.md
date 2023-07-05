@@ -40,7 +40,7 @@ Si el/la profesor/profesora encuentra al estudiante copiando durante un control 
 ### Controles
 Cada laboratorio sera iniciado con un control de entrada de 15 minutos el cual estara relacionado con la materia vista en la clase anterior o alguna lectura la cual sera avisada con anticipación.
 
-# Informes de laboratorio
+### Informes de laboratorio
 Las guías de laboratorio contienen las instrucciones para desarrollar la actividad práctica. Además, incluyen varias preguntas que deben responder. Sus respuestas serán evaluadas, lo que corresponderá a la nota de informes de laboratorio.
 
 El informe de laboratorio debe contener las preguntas indicas en la guía y sus respectivas respuestas. Es una buena idea apoyar tus respuestas con captura de pantallas que muestre el resultado que obtuviste al ejecutar un programa. Cada figura que se encuentre en el informe **debe ir con una leyenda y descripción** de la misma, **de igual forma para las tablas.**
