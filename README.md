@@ -1,4 +1,4 @@
-# BIOL311_UNAB
+# BIOL311 UNAB
 
 ### Para Ingenieria en Biotecnologia y Biologia
 
