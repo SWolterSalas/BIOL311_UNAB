@@ -1,5 +1,7 @@
 # BIOL311_UNAB
 
+### Para Ingenieria en Biotecnologia y Biologia
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Bienvenidos a la clase de Bioinformática BIOL311 enfocada en los fascinantes campos de la Genómica y la Biología Estructural. En esta asignatura, exploraremos las herramientas y técnicas computacionales utilizadas para analizar y comprender la información genómica y la estructura tridimensional de las biomoléculas.
