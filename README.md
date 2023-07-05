@@ -28,4 +28,4 @@ A lo largo del curso, se fomentará el enfoque práctico mediante la resolución
 
 ## Bibliografia
 
-Introduction to Genomics Lesk (2012) 2nd_Edition
+Introduction to Genomics Lesk (2012) 2nd Edition
