@@ -15,6 +15,7 @@ En esta clase, aprenderemos sobre las principales bases de datos y herramientas 
 A lo largo del curso, se fomentará el enfoque práctico mediante la resolución de problemas y proyectos que simulan situaciones reales en bioinformática. Además, se promoverá el uso de lenguajes de programación y herramientas computacionales ampliamente utilizadas en el campo.
 
 - [Tematicas](#tematicas)
+- [Reglamento](#reglamento)
 - [Bibliografia](#bibliografia)
 
 ## Tematicas
@@ -25,6 +26,32 @@ A lo largo del curso, se fomentará el enfoque práctico mediante la resolución
 - Prediccion de genes
 - Filogenetica molecular
 - Metagenomica
+
+## Reglamento
+
+Los trabajos de laboratorio están diseñados para que cada grupo trabaje de forma independiente. El/La profesor/a tienen una politica de tolerancia cero con respecto al plagio, copia, apropiación indebida de un trabajo o sus partes, o cualquier tipo de ayuda no contemplada en las conductas aceptables.
+
+**Conductas aceptables:** Los estudiantes pueden requerir ayuda del profesor. También pueden requerir ayuda de sus compañeros en la medida que el trabajo a ser evaluado sea 100% de la autoría del estudiante. Los estudiantes pueden discutir una tarea, artículo científico, o libro.
+
+**Conductas inaceptables:** Los estudiantes no pueden, bajo ninguna circunstancia, presentar algo como suyo sin que haya sido así, copiar contenidos de un libro, otra tarea o artículo. El plagio es una violación de la honestidad intelectual y consiste en hacer parecer tuyo algo que no es de tu autoría. Está prohibido hacer trampa, es decir, tratar de recibir ayudas o ventajas no contempladas por el profesor. Está prohibido duplicar total o parcialmente el trabajo de otro individuo.
+
+Si el/la profesor/profesora encuentra al estudiante copiando durante un control o solemne será evaluado con la nota mínima sin objeción.
+
+# Controles
+Cada laboratorio sera iniciado con un control de entrada de 15 minutos el cual estara relacionado con la materia vista en la clase anterior o alguna lectura la cual sera avisada con anticipación.
+
+# Informes de laboratorio
+Las guías de laboratorio contienen las instrucciones para desarrollar la actividad práctica. Además, incluyen varias preguntas que deben responder. Sus respuestas serán evaluadas, lo que corresponderá a la nota de informes de laboratorio.
+
+El informe de laboratorio debe contener las preguntas indicas en la guía y sus respectivas respuestas. Es una buena idea apoyar tus respuestas con captura de pantallas que muestre el resultado que obtuviste al ejecutar un programa. Cada figura que se encuentre en el informe **debe ir con una leyenda y descripción** de la misma, **de igual forma para las tablas.**
+
+Los informes de laboratorio deben ser enviados en un documento Word, PDF, Markdown o Jupyter Notebook a la plataforma de Canvas o al correo electrónico de Sebastian Wolter (s.woltersalas@uandresbello.edu). El plazo es hasta las 23:59 hrs del mismo día de la semana siguiente a la ejecucion del laboratorio. Es muy importante la puntualidad de entrega. Se penalizara con un punto (10 decimas) por cada hora de atraso.
+
+Es importante que el trabajo del informe sea prolijo, no tenga copia y falta de autoría (la autoría debe estar correctamente citada). Los resultados que obtengan deben estar agregados como imagen al informe y correctamente descritos. Un elemento esencial para el resto de la carrera científica es citar correctamente en APA o Vancouver. La no cita de los papers asociados se evaluaran con menor cantidad de puntos. Los informes son en español, por lo que todo lo que se mencione en inglés debe ir en cursiva. El formato debe ser el mismo en el documento (misma fuente, tamaño de letra, interlineado, etc.). En el caso de entregar el informe en "Word" o "PDF", el texto debe estar justificado. La redacción debe ser de buena calidad, asi mismo con la correcta ortografía (por ejemplo, tildes). El ideal es entregar un trabajo de calidad y que determine que hayan trabajado y aprendido en el proceso.
+
+PRO TIP: Las preguntas que tengan mayor puntaje significa que hay que prestar mas atención a estos, siendo esencial dar una respuesta completa y adecuada para el máximo puntaje.
+
+Beneficio: Si entregas el informe como documento Markdown tendrás 5 décimas adicionales en tu nota. Puedes escribir documentos Markdown (.md) en un editor Markdown como Visual Studio Code (altamente sugerido). Información sobre cómo escribir documentos Markdown está en la web por ejemplo [aquí](http://cesarhdz.com/articulos/escribir-en-markdown#que-es-markdown) o [aquí](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) en inglés.
 
 ## Bibliografia
 
