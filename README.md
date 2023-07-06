@@ -1,10 +1,10 @@
-# BIOL311 UNAB
+# Tutorial para el aprendizaje de conceptos, programas y analisis en el area de la Bioinformatica
 
 ### Para Ingenieria en Biotecnologia y Biologia
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Bienvenidos a la clase de Bioinformática BIOL311 enfocada en los fascinantes campos de la Genómica y la Biología Estructural. En esta asignatura, exploraremos las herramientas y técnicas computacionales utilizadas para analizar y comprender la información genómica y la estructura tridimensional de las biomoléculas.
+Bienvenidos a la clase de Bioinformática enfocada en los fascinantes campos de la Genómica y la Biología Estructural. En esta asignatura, exploraremos las herramientas y técnicas computacionales utilizadas para analizar y comprender la información genómica y la estructura tridimensional de las biomoléculas.
 
 La Bioinformática desempeña un papel fundamental en la era de la genómica, donde las tecnologías de secuenciación de nueva generación nos han brindado acceso sin precedentes a las secuencias de ADN. El análisis de estos datos masivos requiere herramientas bioinformáticas para identificar genes, comprender la organización y predecir genes, como asi tambien determinar caminos evolutivos y analisis metagenomicos.
 
