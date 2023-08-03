@@ -27,8 +27,11 @@ A lo largo del curso, se fomentará el enfoque práctico mediante la resolución
 
 ## Reglamento
 
-Formato Paper bonus
+Formato Paper arreglar
+
 Nombre del archivo debe ser estandar
+
+
 
 Los trabajos de laboratorio están diseñados para que cada grupo trabaje de forma independiente. El/La profesor/a tienen una politica de tolerancia cero con respecto al plagio, copia, apropiación indebida de un trabajo o sus partes, o cualquier tipo de ayuda no contemplada en las conductas aceptables.
 
