@@ -31,7 +31,7 @@ Formato Paper arreglar
 
 Nombre del archivo debe ser estandar
 
-
+Las preguntas son guias, lo importante es la pauta de evaluacion y el nivel de comprension del informe.
 
 Los trabajos de laboratorio están diseñados para que cada grupo trabaje de forma independiente. El/La profesor/a tienen una politica de tolerancia cero con respecto al plagio, copia, apropiación indebida de un trabajo o sus partes, o cualquier tipo de ayuda no contemplada en las conductas aceptables.
 
