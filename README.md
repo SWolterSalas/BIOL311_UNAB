@@ -43,12 +43,12 @@ El nombre de cada archivo debe ser **GrupoX_LaboratorioY_Apellido1-Apellido2** (
 
 El formato del informe es clásico, el cual comprende:
 
-•	Inicio de paper (Titulo, integrantes)
-•	Introducción al paper (1 página)
-•	Metodología (1 página)
-•	Resultados (2 páginas)
-•	Discusión y conclusión (1 página)
-•	Bibliografía (5 páginas)
+- Inicio de paper (Titulo, integrantes)
+- Introducción al paper (1 página)
+- Metodología (1 página)
+- Resultados (2 páginas)
+- Discusión y conclusión (1 página)
+- Bibliografía (5 páginas)
 
 Cada una de las figuras y tablas colocadas en el informe deben ir con su respectiva leyenda. Específicamente, es necesario colocar las figuras de los resultados. Pueden apoyarse colocando figuras de los pasos intermedios. 
 
