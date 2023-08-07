@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Laboratorio 02 - Alineamiento de secuencias</title>
+    <link rel="stylesheet" href="https://stackedit.io/style.css" />
+
+</head>
+<body class="stackedit">
+    <div class="stackedit__left">
+      <div class="stackedit__toc">
+        
+  <ul>
+  <img src="https://vinculacion.unab.cl/wp-content/uploads/2020/10/FCV-01.png" alt="unab">
+
+  <li><a href="#titulo">Laboratorio 02 – Alineamiento de secuencia</a>
+  <ul>
+
+  <li><a href="#introduccion">1. Introducción</a></li>
+  <li><a href="#actividades">2. Actividades</a></li>
+  <li><a href="#actividad1">a. Recolección genes homólogos</a></li>
+  <li><a href="#actividad2">b. Alineamiento Múltiple de Secuencias (Multiple Sequence Alignment, o MSA en inglés)</a></li>
+  <li><a href="#actividad3">c. Visualización del árbol filogenético con "Newick Display"</a></li>
+
+  </ul>
+  </li>
+  </ul>
+  
+      </div>
+    </div>
+    <div class="stackedit__right">
+      <div class="stackedit__html">
+    
+
+    <h1 id="titulo">Laboratorio 02 – Alineamiento de secuencia</h1>
+
+
+
+    <h2 id="introduccion">1. Introducción</h2>
+
+    <p>La genómica, una rama de la biología que se enfoca en el estudio e interpretación de la información genética de los organismos, ha experimentado un avance significativo en las últimas décadas gracias al desarrollo de tecnologías de secuenciación de ADN. Estas tecnologías han permitido la generación masiva de secuencias nucleotídicas, brindando una cantidad abrumadora de datos genómicos. Sin embargo, la comprensión y el análisis de esta vasta cantidad de información genética serían imposibles sin una herramienta fundamental en la bioinformática: el alineamiento de secuencias nucleotídicas.</p>
+
+    <p>El alineamiento de secuencias nucleotídicas es una técnica esencial que se utiliza para comparar y encontrar similitudes entre dos o más secuencias de ADN o ARN. Esta técnica busca identificar las regiones conservadas entre las secuencias, es decir, aquellas partes que comparten una alta similitud en su composición de nucleótidos. A través del alineamiento, podemos revelar las relaciones evolutivas y funcionales entre diferentes secuencias, lo que arroja luz sobre aspectos cruciales de la biología molecular y la evolución.</p>
+
+    <p>La importancia del alineamiento de secuencias en el análisis genómico radica en varios aspectos clave:</p>
+
+    <ol>
+        <li><strong>Estudios filogenéticos y evolutivos:</strong> Mediante el alineamiento de secuencias de diferentes especies, podemos inferir su relación evolutiva y construir árboles filogenéticos que nos ayudan a entender cómo los organismos han evolucionado a lo largo del tiempo y cómo se relacionan entre sí.</li>
+        <li><strong>Identificación de genes y elementos funcionales:</strong> El alineamiento de secuencias es una herramienta fundamental para la identificación de genes y elementos funcionales en un genoma. Al comparar secuencias genómicas con secuencias conocidas de genes, promotores u otros elementos reguladores, podemos identificar regiones codificantes y entender cómo se expresan y regulan los genes.</li>
+        <li><strong>Anotación de genomas:</strong> El alineamiento de secuencias es esencial en el proceso de anotación de genomas. Permite identificar genes, elementos reguladores y regiones no codificantes, proporcionando una interpretación más completa y precisa del genoma.</li>
+        <li><strong>Detección de mutaciones y variaciones genéticas:</strong> Al alinear secuencias de individuos diferentes, podemos identificar mutaciones y variaciones genéticas que pueden estar asociadas con enfermedades o rasgos específicos.</li>
+        <li><strong>Diseño de estrategias experimentales:</strong> El alineamiento de secuencias también es útil para diseñar experimentos de biología molecular, como la amplificación de secuencias específicas mediante PCR o la generación de sondas para hibridación.</li>
+    </ol>
+
+
+    <h2 id="actividades">2. Actividades</h2>
+
+    <h3 id="actividad1">a. Recolección genes homólogos</h3>
+
+    <p>• Abre tu navegador web y ve al sitio web de NCBI (National Center for Biotechnology Information) en la dirección "<a href="https://www.ncbi.nlm.nih.gov/">National Center for Biotechnology Information (nih.gov)</a>".</p>
+
+    <p>• En la página principal de NCBI, busca la sección "All Databases" (Todas las bases de datos) en la parte superior izquierda de la página y selecciona "Gene" de la lista desplegable.</p>
+
+    <p>• Ahora, estarás en la página principal de la base de datos Gene de NCBI. En el cuadro de búsqueda, escribe "SRY" y presiona Enter o haz clic en el botón de búsqueda.</p>
+
+    <p>• La página de resultados mostrará una lista de genes que coinciden con la búsqueda "SRY". Busca y selecciona el gen "SRY" correspondiente a "*Homo sapiens*" (humano).</p>
+
+    <p>•Al seleccionar el gen "SRY" de "Homo sapiens", accederás a la página específica del gen. Aquí encontrarás información detallada sobre el gen, como su nombre oficial, ubicación en el genoma, descripción de la función, productos de proteínas asociados, entre otros detalles relevantes.</p>
+
+    <img src="https://github.com/SWolterSalas/BioinformaticsIntro/blob/main/Clases/Laboratorio%2002/image001.png?raw=true" alt="image001">
+
+    <p>• En la página específica del gen SRY, busca la sección "Orthologs" (Ortólogos) y haz clic en "All" (Todos) para ver todos los ortólogos relacionados con este gen.</p>
+
+    <p>• Serás redirigido a otra página que muestra una lista de los ortólogos del gen SRY en diferentes especies.</p>
+
+    <p>• Para descargar todos los ortólogos de este gen, haz clic en “Download” (Descargar), asegurándote de seleccionar la opción "RefSeq" para garantizar la calidad y precisión de los datos.</p>
+
+    <p>• Luego, haz clic en el botón de descarga o el enlace proporcionado para obtener los datos de los ortólogos en formato de archivo.</p>
+
+    <p>• Una vez que hayas descargado el archivo, ábrelo con un lector de texto de Windows o Visual Studio Code (VSC) para visualizar y analizar la información de los ortólogos del gen SRY en las diferentes especies.</p>
+
+    <img src="https://github.com/SWolterSalas/BioinformaticsIntro/blob/main/Clases/Laboratorio%2002/image002.png?raw=true" alt="image002">
+
+    <p><strong>Idealmente, se debe borrar todo menos el nombre del organismo y debe quedar sin espacios. Esto se puede realizar fácilmente en VSC. Mientras tanto, lo puedes descargar <a href="https://uandresbelloedu-my.sharepoint.com/:u:/g/personal/s_woltersalas_uandresbello_edu/Efp9EXg9tdlBqU7dbQ1NFjIBouBa_4pAjsXZylj1MT-lCw?e=LeyQFu">aqui</a>.</strong></p>
+
+    <p><strong>Ten en cuenta las siguientes preguntas para la confección del informe:</strong></p>
+
+    <ol>
+        <li>¿Qué función cumple el gen SRY?</li>
+        <li>¿Cuál es su contexto genético?</li>
+        <li>¿Cuántos genes ortólogos están anotados en esa base de datos?</li>
+    </ol>
+
+    <h3 id="actividad2">b. Alineamiento Múltiple de Secuencias (Multiple Sequence Alignment, o MSA en inglés)</h3>
+
+    <p>• Ve al enlace de la plataforma de <a href="Galaxy (usegalaxy.org)">Galaxy (usegalaxy.org)</a>.</p>
+
+    <p>• Si ya tienes una cuenta, ingresa con tus credenciales. En caso de no tener una cuenta, crea una nueva siguiendo las instrucciones de registro.</p>
+
+    <p>• Una vez dentro de la plataforma, crea un nuevo historial haciendo clic en "Create new history" y nómbralo "Taller 2 - BIOL311 - (número de grupo)".</p>
+
+    <p>• A continuación, sube el archivo FASTA editado haciendo clic en "Upload data" (Cargar Datos) y arrastrando el archivo a la página de la plataforma. También tienes la opción de buscar la ruta del archivo en tu computadora.</p>
+
+    <p>• Una vez que el archivo FASTA esté cargado, procederemos a realizar el alineamiento múltiple. Ve a la sección "Multiple Alignments" (Alineamiento Múltiple) y selecciona "MAFFT".</p>
+
+    <p>• En la herramienta MAFFT, asegúrate de tener el archivo FASTA previamente cargado seleccionado en el input llamado "Sequence to align" (Secuencias a alinear).</p>
+
+    <p>• En la configuración de la herramienta, ajusta los valores:</p>
+
+    <ul>
+        <li>Data type (Tipo de Data): Selecciona "Nucleic acids" (Ácidos nucleicos) para indicar que estamos trabajando con secuencias de ADN.</li>
+        <li>"MAFFT flavour": Escoge "ginsi" para utilizar este método específico de alineamiento.</li>
+        <li>"Display alignment tree?" (Mostrar el árbol del alineamiento): Selecciona "yes" para que podamos visualizar el árbol filogenético resultante.</li>
+        <li>"Output format" (formato de salida): Verifica que esté configurado como "FASTA".</li>
+    </ul>
+
+    <p>• Finalmente, haz clic en "Run tool" (Ejecutar herramienta) y espera a que el proceso de alineamiento múltiple se complete.</p>
+
+    <p>Una vez finalizado el proceso, podrás visualizar los resultados del alineamiento múltiple de las secuencias del gen SRY en la plataforma de Galaxy.</p>
+
+    <img src="https://github.com/SWolterSalas/BioinformaticsIntro/blob/main/Clases/Laboratorio%2002/image003.png?raw=true" alt="image003">
+
+
+    <h3 id="actividad3">c. Visualización del árbol filogenético con "Newick Display"</h3>
+
+    <p>• En la barra de búsqueda de Galaxy, busca la herramienta "Newick Display" y selecciónala para acceder a su configuración.</p>
+
+    <p>• En la configuración de la herramienta, ajusta los valores según tus preferencias para personalizar la visualización del árbol filogenético:</p>
+
+    <ul>
+        <li>Width (Ancho): Define el ancho deseado del árbol en la visualización. Puedes ajustarlo para que se adapte mejor a la ventana de visualización o para resaltar ciertos detalles.</li>
+        <li>Leaf font-size (Tamaño de fuente): Escoge el tamaño de fuente que consideres más legible y adecuado para mostrar las etiquetas de las hojas del árbol. Asegúrate de que sea fácil de leer y que no se superpongan las etiquetas.</li>
+        <li>Output format (Formato de salida): Elige el formato de salida en el que deseas visualizar el árbol filogenético. Puedes seleccionar el formato que más te convenga para tu análisis o presentación.</li>
+    </ul>
+
+    <p>• Una vez que hayas configurado los valores según tus gustos, haz clic en "Run tool" para generar la visualización del árbol filogenético con las preferencias seleccionadas.</p>
+
+    <p>La herramienta "Newick Display" te proporcionará una representación personalizada del árbol filogenético que te permitirá visualizar de manera clara y atractiva las relaciones evolutivas entre las secuencias del gen SRY de las diferentes especies. Experimenta con diferentes ajustes para obtener la visualización que mejor se adapte a tus necesidades y preferencias.</p>
+
+    <img src="https://github.com/SWolterSalas/BioinformaticsIntro/blob/main/Clases/Laboratorio%2002/image004.png?raw=true" alt="image004">
+
+
+    <p><strong>Ten en cuenta las siguientes preguntas para la confección del informe:</strong></p>
+
+    <ol>
+        <li>¿Qué es el Galaxy?</li>
+        <li>¿Qué otros tipos de herramientas ofrece Galaxy?</li>
+        <li>¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?</li>
+        <li>¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?</li>
+    </ol>
+
+    <p>Realiza lo mismo utilizando MAFFT pero con la opción “MAFFT flavour” fftns. Coloca la figura del árbol, describe las diferencias filogenéticas y discute.</p>
+
+    <p>Ahora realiza lo mismo utilizando CrustalW (sin cambiar ninguna opción). ¿Han cambiado las relaciones filogenéticas? Coloca la figura del árbol, describe las diferencias filogenéticas y discute.</p>
+
+
+
+</body>
+</html>
