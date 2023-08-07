@@ -1,4 +1,4 @@
-# Tutorial para el aprendizaje de conceptos, programas y analisis en el area de la Bioinformatica
+# Tutorial para el aprendizaje de conceptos, programas y análisis en el área de la Bioinformática
 
 ### Para Ingenieria en Biotecnologia y Biologia
 
