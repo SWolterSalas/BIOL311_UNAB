@@ -54,7 +54,8 @@ Cada una de las figuras y tablas colocadas en el informe deben ir con su respect
 
 Los informes de laboratorio deben ser enviados en un documento Word o PDF a la plataforma de Canvas o al correo electrónico de Sebastian Wolter-Salas (s.woltersalas@uandresbello.edu). El plazo es hasta las 23:59 hrs del DIA JUEVES. Es muy importante la puntualidad de entrega. Se penalizará con un punto (10 décimas) por cada hora de atraso.
 
+Es importante que el trabajo del informe sea prolijo, no tenga copia y falta de autoría (la autoría debe estar correctamente citada). Un elemento esencial para el resto de la carrera científica es citar correctamente. La no cita de los papers asociados se evaluarán con menor cantidad de puntos. Los informes son en español, por lo que todo lo que se mencione en inglés debe ir en cursiva. El formato debe ser el mismo en el documento (misma fuente, tamaño de letra, interlineado, etc.). El ideal es entregar un trabajo de calidad y que determine que hayan trabajado y aprendido en el proceso.
+
 ## Bibliografia
 
 Introduction to Genomics Lesk (2012) 2nd Edition
-Es importante que el trabajo del informe sea prolijo, no tenga copia y falta de autoría (la autoría debe estar correctamente citada). Un elemento esencial para el resto de la carrera científica es citar correctamente. La no cita de los papers asociados se evaluarán con menor cantidad de puntos. Los informes son en español, por lo que todo lo que se mencione en inglés debe ir en cursiva. El formato debe ser el mismo en el documento (misma fuente, tamaño de letra, interlineado, etc.). El ideal es entregar un trabajo de calidad y que determine que hayan trabajado y aprendido en el proceso.
