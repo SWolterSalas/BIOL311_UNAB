@@ -1,3 +1,32 @@
+# Tutorial para el aprendizaje de conceptos, programas y analisis en el area de la Bioinformatica
+
+### Para Ingenieria en Biotecnologia y Biologia
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Bienvenidos a la clase de Bioinformática enfocada en los fascinantes campos de la Genómica y la Biología Estructural. En esta asignatura, exploraremos las herramientas y técnicas computacionales utilizadas para analizar y comprender la información genómica y la estructura tridimensional de las biomoléculas.
+
+La Bioinformática desempeña un papel fundamental en la era de la genómica, donde las tecnologías de secuenciación de nueva generación nos han brindado acceso sin precedentes a las secuencias de ADN. El análisis de estos datos masivos requiere herramientas bioinformáticas para identificar genes, comprender la organización y predecir genes, como asi tambien determinar caminos evolutivos y analisis metagenomicos.
+
+Además, la comprensión de la estructura tridimensional de las biomoléculas es crucial para desentrañar su función y mecanismos moleculares. La Biología Estructural utiliza técnicas como la cristalografía de rayos X, la resonancia magnética nuclear (RMN) y la microscopía crioelectrónica para determinar las estructuras de proteínas, ácidos nucleicos y otros componentes celulares.
+
+A lo largo del curso, se fomentará el enfoque práctico mediante la resolución de problemas y proyectos que simulan situaciones reales en bioinformática. Además, se promoverá el uso de lenguajes de programación y herramientas computacionales ampliamente utilizadas en el campo.
+
+- [Tematicas](#tematicas)
+- [Reglamento](#reglamento)
+- [Bibliografia](#bibliografia)
+
+## Tematicas
+
+- Bases de datos
+- Alineamiento de secuencias
+- Ensamblaje de genomas
+- Prediccion de genes
+- Filogenetica molecular
+- Metagenomica
+
+## Reglamento
+
 Los trabajos de laboratorio están diseñados para que cada grupo trabaje de forma independiente. El/La profesor/a tienen una política de tolerancia cero con respecto al plagio, copia, apropiación indebida de un trabajo o sus partes, o cualquier tipo de ayuda no contemplada en las conductas aceptables.
 
 **Conductas aceptables:** Los estudiantes pueden requerir ayuda del profesor. También pueden requerir ayuda de sus compañeros en la medida que el trabajo a ser evaluado sea 100% de la autoría del estudiante. Los estudiantes pueden discutir una tarea, artículo científico, o libro.
@@ -25,4 +54,7 @@ Cada una de las figuras y tablas colocadas en el informe deben ir con su respect
 
 Los informes de laboratorio deben ser enviados en un documento Word o PDF a la plataforma de Canvas o al correo electrónico de Sebastian Wolter-Salas (s.woltersalas@uandresbello.edu). El plazo es hasta las 23:59 hrs del DIA JUEVES. Es muy importante la puntualidad de entrega. Se penalizará con un punto (10 décimas) por cada hora de atraso.
 
+## Bibliografia
+
+Introduction to Genomics Lesk (2012) 2nd Edition
 Es importante que el trabajo del informe sea prolijo, no tenga copia y falta de autoría (la autoría debe estar correctamente citada). Un elemento esencial para el resto de la carrera científica es citar correctamente. La no cita de los papers asociados se evaluarán con menor cantidad de puntos. Los informes son en español, por lo que todo lo que se mencione en inglés debe ir en cursiva. El formato debe ser el mismo en el documento (misma fuente, tamaño de letra, interlineado, etc.). El ideal es entregar un trabajo de calidad y que determine que hayan trabajado y aprendido en el proceso.
